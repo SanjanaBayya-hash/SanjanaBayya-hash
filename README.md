@@ -1,180 +1,179 @@
-<h1 align="center">Hi 👋, I'm Sanjana Bayya</h1>
+# <h1 align="center">🚀 Sanjana Bayya</h1>
 
 <h3 align="center">
-AI Engineer • Full Stack Developer • Smart Grid Technology Enthusiast
+AI Engineer • Full Stack Developer • Research Enthusiast • Smart Grid Technology Explorer
 </h3>
 
 <p align="center">
-Building AI-powered solutions, scalable backend systems, and intelligent energy analytics platforms.
+Building intelligent systems, scalable backend architectures, and AI-powered solutions that create measurable impact.
 </p>
 
 <p align="center">
+<a href="https://github.com/SanjanaBayya-hash">
 <img src="https://komarev.com/ghpvc/?username=SanjanaBayya-hash&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-<a href="https://github-profile-trophy.vercel.app/?username=SanjanaBayya-hash&theme=tokyonight&no-frame=true&row=1&column=7">
-<img src="https://github-profile-trophy.vercel.app/?username=SanjanaBayya-hash&theme=tokyonight&no-frame=true&row=1&column=7" />
 </a>
 </p>
 
----
-
-# 🚀 Who Am I?
-
-🎓 B.Tech Computer Science (AI & ML) Student at **SR University** (CGPA: **9.2/10**)
-
-🔬 Former Research Intern at **NIT Warangal**
-
-⚡ Full Stack Developer Intern at **APTRANSCO**
-
-📜 Patent Applicant for an **AI-Powered Career Guidance System**
-
-☁️ AWS Certified Cloud Foundations & Cloud Developing
-
-💡 Passionate about solving real-world challenges through Artificial Intelligence, Machine Learning, Distributed Systems, and Scalable Software Engineering.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SanjanaBayya-hash&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-# 🏆 Highlights
-
-- 📜 Patent Filed – AI-Powered Career Guidance System
-- 🔬 Research Experience in Reinforcement Learning at NIT Warangal
-- ⚡ Built Production Energy Analytics Systems at APTRANSCO
-- 🥉 Third Place – IEEE Project Expo
-- 🚀 Top 5 Team – Smart India Hackathon (Internal Round)
-- 🎓 Consistently Maintaining 9.2/10 CGPA
-- ☁️ AWS Cloud Foundations Certified
-- ☁️ AWS Cloud Developing Certified
-
----
-
-# 🎯 Current Focus
+## 💫 About Me
 
 ```python
 class SanjanaBayya:
 
-    focus_areas = [
+    role = "AI Engineer & Full Stack Developer"
+
+    education = {
+        "University": "SR University",
+        "Degree": "B.Tech Computer Science (AI & ML)",
+        "CGPA": "9.2/10"
+    }
+
+    interests = [
         "Artificial Intelligence",
         "Machine Learning",
-        "Large Language Models (LLMs)",
+        "Large Language Models",
         "Reinforcement Learning",
-        "Backend Engineering",
-        "Cloud Computing",
-        "MLOps",
-        "Energy Analytics",
-        "Smart Grid Technologies"
+        "Distributed Systems",
+        "Cloud Engineering",
+        "Backend Architecture",
+        "Energy Analytics"
     ]
 
-    mission = "Build intelligent systems that solve meaningful problems at scale."
+    current_mission = "Building intelligent systems that solve meaningful problems at scale."
 ```
 
 ---
 
-# 💼 Professional Experience
+## 🏆 Achievements
 
-## ⚡ APTRANSCO — Full Stack Developer Intern
+🏅 Patent Applicant — AI-Powered Career Guidance System
 
-- Built Transmission Loss Monitoring and Energy Analytics Platforms
-- Developed scalable backend services using Django and PostgreSQL
-- Engineered REST APIs for operational analytics
-- Designed backend data processing pipelines
-- Worked on digitization initiatives for the power sector
+🔬 Research Intern — National Institute of Technology (NIT) Warangal
+
+⚡ Full Stack Developer Intern — APTRANSCO
+
+🥉 Third Place — IEEE Project Expo
+
+🚀 Top 5 Team — Smart India Hackathon (Internal Round)
+
+☁️ AWS Academy Graduate — Cloud Foundations
+
+☁️ AWS Academy Graduate — Cloud Developing
+
+🎓 9.2/10 CGPA in Artificial Intelligence & Machine Learning
 
 ---
 
-## 🔬 NIT Warangal — Research Intern
+## 💼 Experience
 
-- Applied Reinforcement Learning for dynamic scheduling optimization
-- Designed intelligent decision-making systems
-- Improved scheduling efficiency through optimized policy learning
-- Conducted performance benchmarking and experimentation
+### ⚡ APTRANSCO | Full Stack Developer Intern
+
+Developed large-scale Energy Analytics and Transmission Loss Monitoring solutions using Django, PostgreSQL, and REST APIs.
+
+#### Key Contributions
+
+* Designed and developed backend services using Django
+* Built operational analytics dashboards
+* Engineered REST APIs for data-driven insights
+* Developed scalable data processing pipelines
+* Contributed to power-sector digitization initiatives
 
 ---
 
-# 🚀 Featured Projects
+### 🔬 NIT Warangal | Research Intern
 
-## 🤖 AI-Powered Career Guidance System
+Worked on Reinforcement Learning-based scheduling optimization systems.
 
-### Patent Application No. 202541050184 A
+#### Key Contributions
 
-An NLP-powered recommendation engine that generates personalized career guidance and learning roadmaps.
+* Applied Reinforcement Learning to dynamic scheduling problems
+* Improved decision-making efficiency through policy optimization
+* Conducted benchmarking and performance evaluation
+* Developed intelligent resource allocation strategies
+
+---
+
+## 🚀 Featured Repositories
+
+### 🤖 AI-Powered Career Guidance System
+
+Patent Filed (Application No. 202541050184 A)
+
+AI-powered recommendation platform that generates personalized career roadmaps using NLP and Machine Learning.
 
 **Tech Stack**
 
 `Python` `Machine Learning` `NLP` `Scikit-Learn`
 
-### Impact
-
-- Personalized Career Recommendations
-- NLP-Based Guidance Engine
-- Improved Prediction Accuracy
-- Optimized Data Processing Pipeline
-
 ---
 
-## ⚡ Smart Grid Energy Optimization System
+### ⚡ Smart Grid Energy Optimization System
 
-An intelligent optimization framework for modern energy distribution systems.
+Intelligent optimization framework for modern power distribution systems.
 
 **Tech Stack**
 
 `Python` `Optimization Algorithms` `Scheduling Systems`
 
-### Impact
-
-- Reduced Energy Consumption
-- Improved Operational Efficiency
-- Dynamic Load Optimization
-- Smart Grid Analytics
-
 ---
 
-## 🌐 Energy Analytics & Transmission Loss Monitoring Platform
+### 📊 Energy Analytics Platform
 
-Production-grade analytics platform developed during APTRANSCO internship.
+Production-grade transmission loss monitoring and analytics system.
 
 **Tech Stack**
 
 `Django` `PostgreSQL` `REST APIs`
 
-### Features
+---
 
-- Transmission Loss Analytics
-- Operational Monitoring
-- Data Visualization
-- Scalable Backend Architecture
+### 🌐 Full Stack Applications
+
+Scalable web applications built using modern frontend and backend technologies.
+
+**Tech Stack**
+
+`React` `Django` `PostgreSQL`
 
 ---
 
-# 📊 Impact Snapshot
+## 📈 Impact
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="25%">
 
 ### 📜
+
 Patent Filed
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 ### 🔬
-Research Intern
+
+Research Experience
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 ### ⚡
+
 Production Systems
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 ### ☁️
+
 AWS Certified
 
 </td>
@@ -183,7 +182,7 @@ AWS Certified
 
 ---
 
-# 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -197,7 +196,7 @@ AWS Certified
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-**Machine Learning • Deep Learning • NLP • Reinforcement Learning • Scikit-Learn • Pandas • NumPy**
+Machine Learning • Deep Learning • NLP • Reinforcement Learning • Scikit-Learn • Pandas • NumPy
 
 ---
 
@@ -207,7 +206,7 @@ AWS Certified
 <img src="https://skillicons.dev/icons?i=django,nodejs,express" />
 </p>
 
-**REST APIs • PostgreSQL • MongoDB**
+REST APIs • PostgreSQL • MongoDB
 
 ---
 
@@ -227,12 +226,12 @@ AWS Certified
 
 ---
 
-# 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanjanaBayya-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanjanaBayya-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaBayya-hash&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaBayya-hash&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -241,9 +240,10 @@ AWS Certified
 
 ---
 
-# 🌍 Connect With Me
+## 🌍 Connect With Me
 
 <p align="center">
+
 <a href="https://linkedin.com/in/sanjana-bayya-23873b295">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -253,29 +253,47 @@ AWS Certified
 </a>
 
 <a href="https://leetcode.com/sanjanabayya">
-<img src="https://img.shields.io/badge/LeetCode-Solve_Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <a href="https://www.topcoder.com/members/506001">
 <img src="https://img.shields.io/badge/TopCoder-Competitive_Programming-blue?style=for-the-badge" />
 </a>
+
 </p>
 
 ---
 
-# 📄 Resume
+## 📄 Resume
 
-📌 Resume:  
+📌 Resume:
 https://drive.google.com/file/d/15PqcV0_xYgsycAmmjuzGtVDfH2bFIZKd/view
 
 ---
 
-# 💭 Engineering Philosophy
+## 🎯 Current Learning Journey
 
-> **"Engineering is not about writing code. It's about building systems that solve meaningful problems at scale."**
+* Large Language Models (LLMs)
+* MLOps & Production AI
+* System Design
+* Distributed Systems
+* Cloud-Native Architectures
+* High-Performance Backend Systems
+
+---
+
+## 💭 Engineering Philosophy
+
+> *"Great software is not measured by lines of code, but by the problems it solves and the impact it creates."*
 
 ---
 
 <p align="center">
-⭐ If you like my work, consider starring my repositories and connecting with me.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjanaBayya-hash&theme=tokyo-night&hide_border=true"/>
 </p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! Let's build something impactful together.
+</h3>
