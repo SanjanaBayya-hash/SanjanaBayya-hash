@@ -1,40 +1,125 @@
-<h1 align="center">Hi 👋, I'm Sanjana Bayya</h1>
-<h3 align="center">A passionate AI/ML and Full Stack Developer</h3>
+# Hi there 👋, I'm Sanjana Bayya
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanabayya-hash&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanabayya-hash" /> </p>
+### AI/ML Engineer | Full Stack Developer | Energy Analytics Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjanabayya-hash" alt="sanjanabayya-hash" /></a> </p>
+I build intelligent, scalable, and data-driven applications that solve real-world problems. My interests span **Artificial Intelligence, Machine Learning, Backend Engineering, Cloud Technologies, and Energy Analytics Systems**.
 
-- 🔭 I’m currently working on **Scalable Energy Analytics & Transmission Loss Monitoring Platform for APTRANSCO using Django, PostgreSQL and REST APIs**
+---
 
-- 🌱 I’m currently learning **System Design, Advanced Django, Cloud Engineering (AWS) , LLM Applications , MLOps , High-Performance Backend Architecture**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on [AI-powered products, Full Stack Web Applications, Smart Grid Technologies, and Open Source Developer Tools](https://github.com/SanjanaBayya-hash/my_project)
+- 🔭 Currently working on **Scalable Energy Analytics & Transmission Loss Monitoring Platform** for APTRANSCO using Django, PostgreSQL, and REST APIs.
+- 🌱 Exploring **System Design, Advanced Django, Cloud Engineering (AWS), LLM Applications, MLOps, and High-Performance Backend Architectures**.
+- 👯 Open to collaborating on **AI-powered products, Full Stack Applications, Smart Grid Technologies, and Open Source Projects**.
+- 🤝 Interested in learning and contributing to **Distributed Systems, Production AI Systems, Cloud-Native Applications, and Large Language Models (LLMs)**.
+- 💬 Ask me about **Python, Django, Machine Learning, NLP, Reinforcement Learning, PostgreSQL, REST APIs, Backend Development, and Energy Analytics**.
+- ⚡ Fun fact: *I enjoy transforming complex business challenges into scalable software solutions.*
 
-- 🤝 I’m looking for help with **Distributed Systems, Large Language Models (LLMs), Cloud-native Architectures, and Production-scale AI Systems**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/SanjanaBayya-hash](https://github.com/SanjanaBayya-hash)
+## 🌐 Connect With Me
 
-- 💬 Ask me about **Python, Django, AI/ML , Reinforcement Learning , NLP , PostgreSQL , REST APIs , Energy Analytics , Git , Backend Development**
-
-- 📫 How to reach me **bayyasanjana@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/15PqcV0_xYgsycAmmjuzGtVDfH2bFIZKd/view?usp=drive_link](https://drive.google.com/file/d/15PqcV0_xYgsycAmmjuzGtVDfH2bFIZKd/view?usp=drive_link)
-
-- ⚡ Fun fact **I love turning complex real-world problems into elegant software solutions.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanjana-bayya-23873b295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjana-bayya-23873b295" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanjanabayya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjanabayya" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/506001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="506001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanjana-bayya-23873b295" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://github.com/SanjanaBayya-hash" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+<a href="https://leetcode.com/sanjanabayya" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" />
+</a>
+<a href="https://www.topcoder.com/members/506001" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/topcoder.svg" height="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjanabayya-hash&show_icons=true&locale=en&layout=compact" alt="sanjanabayya-hash" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjanabayya-hash&show_icons=true&locale=en" alt="sanjanabayya-hash" /></p>
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,js" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanabayya-hash&" alt="sanjanabayya-hash" /></p>
+### Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+</p>
+
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+</p>
+
+### AI / ML & Data Science
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+**Additional Libraries:** Pandas, Scikit-Learn, Seaborn, NumPy
+
+### Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,firebase,git,postman" />
+</p>
+
+---
+
+## 📌 Featured Areas
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Natural Language Processing (NLP)
+- 🔄 Reinforcement Learning
+- ⚙️ Backend & API Development
+- ☁️ Cloud Computing & MLOps
+- 📊 Data Analytics & Visualization
+- ⚡ Energy Analytics & Smart Grid Solutions
+
+---
+
+## 📂 Projects
+
+Explore my projects here:
+
+🔗 **GitHub:** https://github.com/SanjanaBayya-hash
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanjanaBayya-hash&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaBayya-hash&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjanaBayya-hash&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SanjanaBayya-hash&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 📫 Contact
+
+📧 **Email:** bayyasanjana@gmail.com
+
+📄 **Resume:**  
+https://drive.google.com/file/d/15PqcV0_xYgsycAmmjuzGtVDfH2bFIZKd/view
+
+---
+
+### ⭐ “Building intelligent systems that create measurable impact.”
