@@ -1,125 +1,168 @@
-# Hi there 👋, I'm Sanjana Bayya
+<h1 align="center">Hi 👋, I'm Sanjana Bayya</h1>
 
-### AI/ML Engineer | Full Stack Developer | Energy Analytics Enthusiast
+<h3 align="center">
+AI/ML Engineer • Full Stack Developer • Energy Analytics Enthusiast
+</h3>
 
-I build intelligent, scalable, and data-driven applications that solve real-world problems. My interests span **Artificial Intelligence, Machine Learning, Backend Engineering, Cloud Technologies, and Energy Analytics Systems**.
+<p align="center">
+Building intelligent systems, scalable backend applications, and AI-powered solutions that create real-world impact.
+</p>
+
+<p align="center">
+<a href="https://github.com/SanjanaBayya-hash">
+<img src="https://komarev.com/ghpvc/?username=SanjanaBayya-hash&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Scalable Energy Analytics & Transmission Loss Monitoring Platform** for APTRANSCO using Django, PostgreSQL, and REST APIs.
-- 🌱 Exploring **System Design, Advanced Django, Cloud Engineering (AWS), LLM Applications, MLOps, and High-Performance Backend Architectures**.
-- 👯 Open to collaborating on **AI-powered products, Full Stack Applications, Smart Grid Technologies, and Open Source Projects**.
-- 🤝 Interested in learning and contributing to **Distributed Systems, Production AI Systems, Cloud-Native Applications, and Large Language Models (LLMs)**.
-- 💬 Ask me about **Python, Django, Machine Learning, NLP, Reinforcement Learning, PostgreSQL, REST APIs, Backend Development, and Energy Analytics**.
-- ⚡ Fun fact: *I enjoy transforming complex business challenges into scalable software solutions.*
+🎓 B.Tech in Computer Science (AI & ML) at **SR University** (CGPA: **9.2/10**)
+
+🔬 Former Research Intern at **NIT Warangal**, applying Reinforcement Learning to scheduling optimization
+
+⚡ Full Stack Developer Intern at **APTRANSCO**, developing large-scale Energy Analytics and Transmission Loss Monitoring systems
+
+📜 Patent Applicant for an **AI-Powered Career Guidance System**
+
+☁️ AWS Certified Cloud Foundations & Cloud Developing
+
+🌱 Currently exploring:
+
+- Large Language Models (LLMs)
+- MLOps & Production AI Systems
+- Distributed Systems
+- Cloud-Native Architectures
+- Advanced Django & System Design
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 Highlights
 
-<p align="left">
-<a href="https://linkedin.com/in/sanjana-bayya-23873b295" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://github.com/SanjanaBayya-hash" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-<a href="https://leetcode.com/sanjanabayya" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" />
-</a>
-<a href="https://www.topcoder.com/members/506001" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/topcoder.svg" height="40" />
-</a>
-</p>
+- 📜 Patent Filed: AI-Powered Career Guidance System
+- 🥉 Third Place – IEEE Project Expo
+- 🚀 Top 5 Team – Smart India Hackathon (Internal Round)
+- 🎓 Maintaining 9.2/10 CGPA in AI & ML
+- ⚙️ Built production-grade analytics systems for APTRANSCO
+
+---
+
+## 💼 Experience
+
+### ⚡ APTRANSCO — Full Stack Developer Intern
+
+- Developed transmission loss monitoring dashboards
+- Built backend services using Django & PostgreSQL
+- Designed scalable REST APIs
+- Worked on operational analytics for power grid systems
+
+### 🔬 NIT Warangal — Research Intern
+
+- Applied Reinforcement Learning for dynamic scheduling
+- Improved task allocation efficiency through optimized policies
+- Evaluated performance across constrained environments
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI-Powered Career Guidance System
+
+Patent Application No. **202541050184 A**
+
+- NLP-based recommendation engine
+- Personalized career roadmap generation
+- Improved prediction accuracy through feature engineering
+- Optimized inference pipeline for faster recommendations
+
+### ⚡ Smart Grid Energy Optimization System
+
+- Intelligent scheduling framework
+- Energy consumption optimization
+- Smart grid analytics and decision support
+- Performance benchmarking under dynamic load conditions
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,js" />
+<img src="https://skillicons.dev/icons?i=python,javascript,c" />
 </p>
 
-### Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,express" />
-</p>
+### AI / Machine Learning
 
-### Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
-</p>
-
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
-</p>
-
-### AI / ML & Data Science
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-**Additional Libraries:** Pandas, Scikit-Learn, Seaborn, NumPy
+Machine Learning • Deep Learning • NLP • Reinforcement Learning • Scikit-Learn • Pandas • NumPy
 
-### Cloud & DevOps
+### Backend Development
+
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,firebase,git,postman" />
+<img src="https://skillicons.dev/icons?i=django,nodejs,express" />
 </p>
 
----
+REST APIs • PostgreSQL • MongoDB
 
-## 📌 Featured Areas
+### Frontend Development
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Natural Language Processing (NLP)
-- 🔄 Reinforcement Learning
-- ⚙️ Backend & API Development
-- ☁️ Cloud Computing & MLOps
-- 📊 Data Analytics & Visualization
-- ⚡ Energy Analytics & Smart Grid Solutions
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
 
----
+### Cloud & DevOps
 
-## 📂 Projects
-
-Explore my projects here:
-
-🔗 **GitHub:** https://github.com/SanjanaBayya-hash
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,firebase,postman" />
+</p>
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanjanaBayya-hash&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaBayya-hash&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanjanaBayya-hash&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaBayya-hash&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjanaBayya-hash&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjanaBayya-hash&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌐 Connect With Me
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SanjanaBayya-hash&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<p align="left">
+<a href="https://linkedin.com/in/sanjana-bayya-23873b295">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:bayyasanjana@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+</a>
+
+<a href="https://leetcode.com/sanjanabayya">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge" />
+</a>
+
+<a href="https://www.topcoder.com/members/506001">
+<img src="https://img.shields.io/badge/TopCoder-Profile-blue?style=for-the-badge" />
+</a>
 </p>
 
 ---
 
-## 📫 Contact
+## 📫 Let's Build Something Amazing
 
-📧 **Email:** bayyasanjana@gmail.com
+💡 Interested in AI, Machine Learning, Backend Systems, Cloud Technologies, or Smart Grid Solutions?
 
-📄 **Resume:**  
-https://drive.google.com/file/d/15PqcV0_xYgsycAmmjuzGtVDfH2bFIZKd/view
+Feel free to connect and collaborate.
 
----
-
-### ⭐ “Building intelligent systems that create measurable impact.”
+⭐ *"Building intelligent systems that create measurable impact."*
